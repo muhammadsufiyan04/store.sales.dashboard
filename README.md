@@ -1,5 +1,7 @@
 # store.sales.dashboard
 OBJECCTIVE = to create interactive power bi dashboard to provive valuable to sales trends.
+
+
 -----------STEPS-----------
 
 DATA CLEANING = replace null value and remove duplicate value .
